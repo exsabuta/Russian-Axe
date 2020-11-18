@@ -197,6 +197,16 @@ p {
   background-color: #f0f0f0;
 }
 
+.container-grey-alt {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 100%;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ebebeb;
+}
+
 .container-yellow {
   margin-left: auto;
   margin-right: auto;
@@ -354,10 +364,13 @@ p {
 
 /* CONSTRUCTED */
 #gallery-constructed {
+  width: 100%;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
-
 }
+
+/* BOARD OF HONOR */
 
 /* FROM TIGGA */
 .t-cover-n-abs {

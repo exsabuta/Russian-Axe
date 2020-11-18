@@ -5,6 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Русский топор</title>
   <link rel="stylesheet" href="style.css" />
+  <!-- jQuery 1.8 or later, 33 KB -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<!-- Fotorama from CDNJS, 19 KB -->
+<link  href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+
 </head>
 <body>
     <div id="header">
@@ -308,13 +315,26 @@
     </div>
     </div>
   </div>
+
 <!-- CONSTRUCTED -->
 <div class="container-grey">
     <h3>Построили в&nbsp;2019&ndash;2020 году</h3>
     <div id="gallery-constructed">
-    <p class="txt-regular">xcvxzvxzcv
-  xcvzxcvzxcvxz
-xcvzxcvzxcvxz</p></div>
+<!-- FOTORAMA -->
+      <div class="fotorama" data-keyboard="true" data-nav="thumbs" data-width="100%" data-ratio="800/600">
+        <img src="img/hat_back.jpg">
+        <img src="img/lissabon.webp">
+        <img src="img/wersal.webp">
+        <img src="img/antwerpen.webp">
+      </div>
+    </div>
+</div>
+
+<!-- NICE TO MEET YOU -->
+<div class="container-grey-alt">
+    <h3>Приятно познакомиться</h3>
+    <div id="board-of-honor">
+    </div>
 </div>
 </body>
 </html>
