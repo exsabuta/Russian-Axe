@@ -372,6 +372,7 @@ p {
 #con-gallery {
   width: 100%;
   max-width: 1200px;
+  padding-bottom: 60px;
   margin-left: auto;
   margin-right: auto;
 }
