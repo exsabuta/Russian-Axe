@@ -229,16 +229,24 @@ p {
   padding-top: 30px;
   padding-bottom: 60px;
   background-color: #f0f0f0;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.t-hm-title {
+  font-family: 'Noto Serif', serif;
+  font-size: 36px;
+  line-height: 1.23;
+  font-weight: 600;
+  color: #000;
 }
 
 .hm-gallery-left {
   max-width: 100%;
   display: flex;
   flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: flex-start;
+  flex-wrap: wrap;
+  justify-content: center;
   align-items: center;
   padding-bottom: 60px;
   margin-left: auto;
@@ -246,13 +254,13 @@ p {
 }
 
 .hm-img-left {
-  width: 60%;
+  max-width: 50%;
 }
 
 .hm-subtitle-left {
   text-align: left;
-  width: 40%;
-  margin-left: 100px;
+  max-width: 50%;
+  padding-left: 60px;
 }
 
 .t-hm-subtitle-left-1 {
@@ -272,11 +280,11 @@ p {
 }
 
 .hm-gallery-right {
-  max-width: 85%;
+  max-width: 100%;
   display: flex;
   flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: flex-end;
+  flex-wrap: wrap;
+  justify-content: center;
   align-items: center;
   padding-bottom: 60px;
   margin-left: auto;
@@ -284,13 +292,13 @@ p {
 }
 
 .hm-img-right {
-  width: 60%;
+  max-width: 50%;
 }
 
 .hm-subtitle-right {
-  width: 40%;
+  max-width: 50%;
   text-align: right;
-  margin-right: 100px;
+  padding-right: 60px;
 }
 
 .t-hm-subtitle-right-1 {
@@ -387,7 +395,7 @@ p {
   width: 100%;
   max-width: 1200px;
   display: inline-block;
-} 
+}
 
 /* FROM TIGGA */
 .t-cover-n-abs {
