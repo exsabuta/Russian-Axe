@@ -59,6 +59,30 @@ table {
  /Reset
 */
 
+h3 {
+  font-family: 'Noto Serif', serif;
+  font-size: 42px;
+  line-height: 1.23;
+  font-weight: 600;
+  text-align: center;
+  color: #000;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-bottom: 40px;
+}
+
+h4 {
+  font-family: 'Noto Serif', serif;
+  font-size: 36px;
+  line-height: 1.23;
+  font-weight: 600;
+  color: #000;
+}
+
+p {
+  padding-bottom: 20px;
+}
+
 li {
   padding-bottom: 10px;
 }
@@ -164,32 +188,8 @@ li {
   color: #474747;
   padding-bottom: 30px;
   max-width: 1200px;
-  margin-left: 100px;
-  margin-right: 100px;
-}
-
-h3 {
-  font-family: 'Noto Serif', serif;
-  font-size: 42px;
-  line-height: 1.23;
-  font-weight: 600;
-  text-align: center;
-  color: #000;
-  padding-left: 5%;
-  padding-right: 5%;
-  margin-bottom: 40px;
-}
-
-h4 {
-  font-family: 'Noto Serif', serif;
-  font-size: 36px;
-  line-height: 1.23;
-  font-weight: 600;
-  color: #000;
-}
-
-p {
-  padding-bottom: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .container-grey {
@@ -496,4 +496,13 @@ p {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   color: #474747;
+}
+
+/* ACTION BLOCK */
+.t-tel {
+  font-family: 'Noto Serif', serif;
+  font-size: 64px;
+  font-weight: bolder;
+  color: #000;
+  text-align: center;;
 }
