@@ -681,6 +681,10 @@ li {
   }
 }
 
+  #fs .t-card h4 {
+    padding-bottom: 0.5em; /* 10/16 */
+  }
+
 #fs .t-separator {
   padding-bottom: 3em;
   /* 90/16 */
@@ -742,24 +746,11 @@ li {
   margin-right: auto;
 }
 
-/* NICE TO MEET YOU */
-#meet {
-  width: 100%;
-}
-
-#meet-gallery {
-  width: 100%;
-  max-width: 1200px;
-  display: inline-block;
-}
-
 /* ACTION BLOCK */
 #act {
   width: 100%;
   background-color: #fff705;
 }
-
-#act .t-title {}
 
 #act .t-title h3 {
   font-family: 'Noto Serif', serif;
@@ -773,8 +764,6 @@ li {
 }
 
 @media (max-width: 360px) {
-  #act .t-title {}
-
   #act .t-title h3 {
     font-size: 1.8em;
     padding-top: 2.3em;
@@ -783,8 +772,6 @@ li {
 }
 
 @media (min-width: 361px) and (max-width: 768px) {
-  #act .t-title {}
-
   #act .t-title h3 {
     font-size: 2em;
     padding-top: 2.3em;
@@ -801,7 +788,7 @@ li {
   padding-bottom: 2em;
 }
 
-.t-tel a {
+.t-tel a:link, a:visited, a:hover, a:hover:visited, a:active {
   text-decoration: none;
   color: #000;
 }
@@ -830,6 +817,7 @@ li {
 .t-footer {
   font-family: 'Roboto', sans-serif;
   font-size: 0.8em;
+  padding-bottom: 0.5em;
   color: #bdbdbd;
 }
 
@@ -847,6 +835,11 @@ li {
   border-bottom-color: rgba(208, 64, 0, 0.20);
 }
 
+#footer .t-footer a:active {
+  color: #ff5e1a;
+  border-bottom-color: rgba(255, 94, 26, 0.2);
+}
+
 #footer .t-footer a:visited {
   color: #bdbdbd;
   border-bottom-color: rgba(6, 85, 128, .08);
@@ -860,6 +853,10 @@ li {
 /* GRID */
 .t-align-center {
   text-align: center;
+}
+
+.t-align-left {
+  text-align: left;
 }
 
 .t-grid-container {
