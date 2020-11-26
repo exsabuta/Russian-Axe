@@ -1,0 +1,178 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+html, body, div, span, applet, object, iframe	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^html, body, div, span, applet, object, iframe,$/;"	function	line:8
+h1, h2, h3, h4, h5, h6, p, blockquote, pre	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	function	line:9
+a, abbr, acronym, address, big, cite, code	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	function	line:10
+del, dfn, em, img, ins, kbd, q, s, samp	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	function	line:11
+small, strike, strong, sub, sup, tt, var	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	function	line:12
+b, u, i, center	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^b, u, i, center,$/;"	function	line:13
+dl, dt, dd, ol, ul, li	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^dl, dt, dd, ol, ul, li,$/;"	function	line:14
+fieldset, form, label, legend	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^fieldset, form, label, legend,$/;"	function	line:15
+table, caption, tbody, tfoot, thead, tr, th, td	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	function	line:16
+article, aside, canvas, details, embed	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^article, aside, canvas, details, embed,$/;"	function	line:17
+figure, figcaption, footer, header, hgroup	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^figure, figcaption, footer, header, hgroup,$/;"	function	line:18
+menu, nav, output, ruby, section, summary	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^menu, nav, output, ruby, section, summary,$/;"	function	line:19
+time, mark, audio, video	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^time, mark, audio, video {$/;"	function	line:20
+article, aside, details, figcaption, figure	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^article, aside, details, figcaption, figure,$/;"	function	line:31
+footer, header, hgroup, menu, nav, section	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^footer, header, hgroup, menu, nav, section {$/;"	function	line:32
+body	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^body {$/;"	function	line:36
+ol, ul	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^ol, ul {$/;"	function	line:41
+blockquote, q	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^blockquote, q {$/;"	function	line:45
+blockquote:before, blockquote:after	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^blockquote:before, blockquote:after,$/;"	function	line:49
+q:before, q:after	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^q:before, q:after {$/;"	function	line:50
+table	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^table {$/;"	function	line:55
+h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^h3 {$/;"	function	line:63
+h4	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^h4 {$/;"	function	line:77
+p	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^p {$/;"	function	line:86
+li	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^li {$/;"	function	line:91
+::selection	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^::selection {$/;"	function	line:97
+#header	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#header {$/;"	function	line:103
+#header .header-wrapper	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#header .header-wrapper {$/;"	function	line:114
+#header .header-gradient	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#header .header-gradient {$/;"	function	line:118
+.t-cover	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-cover {$/;"	function	line:127
+#header .title-up	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#header .title-up {$/;"	function	line:144
+#header .title-main h1	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#header .title-main h1 {$/;"	function	line:160
+#header .title-sub	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#header .title-sub {$/;"	function	line:177
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:187
+#header .title-main h1	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #header .title-main h1 {$/;"	function	line:188
+#header .title-up	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #header .title-up {$/;"	function	line:193
+#header .title-sub	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #header .title-sub {$/;"	function	line:200
+.t-cover	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-cover {$/;"	function	line:204
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:210
+#header .title-main h1	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #header .title-main h1 {$/;"	function	line:211
+#header .title-up	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #header .title-up {$/;"	function	line:216
+#header .title-sub	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #header .title-sub {$/;"	function	line:223
+.t-cover	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-cover {$/;"	function	line:227
+.t-regular	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-regular {$/;"	function	line:232
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:249
+.t-regular	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-regular {$/;"	function	line:250
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:259
+.t-regular	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-regular {$/;"	function	line:260
+.container-grey	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.container-grey {$/;"	function	line:269
+.container-grey-alt	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.container-grey-alt {$/;"	function	line:277
+.container-yellow	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.container-yellow {$/;"	function	line:285
+#t-lead	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#t-lead {$/;"	function	line:294
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:313
+#t-lead	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #t-lead {$/;"	function	line:314
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:323
+#t-lead	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #t-lead {$/;"	function	line:324
+#why-us	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us {$/;"	function	line:334
+#why-us .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us .t-title {$/;"	function	line:339
+#why-us .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us .t-title h3 {$/;"	function	line:344
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:355
+#why-us .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #why-us .t-title {$/;"	function	line:356
+#why-us .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #why-us .t-title h3 {$/;"	function	line:361
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:368
+#why-us .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #why-us .t-title {$/;"	function	line:369
+#why-us .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #why-us .t-title h3 {$/;"	function	line:374
+#why-us .t-card	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us .t-card {$/;"	function	line:380
+#why-us .t-card img	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us .t-card img {$/;"	function	line:385
+#why-us .t-card .wrappercenter	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us .t-card .wrappercenter {$/;"	function	line:394
+#why-us .t-heading_md	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us .t-heading_md {$/;"	function	line:401
+.t-heading_md	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-heading_md {$/;"	function	line:408
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:414
+.t-heading_md	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-heading_md {$/;"	function	line:415
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:422
+.t-heading_md	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-heading_md {$/;"	function	line:423
+.t-heading	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-heading {$/;"	function	line:430
+.t-descr_xs	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-descr_xs {$/;"	function	line:436
+.t-descr	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-descr {$/;"	function	line:442
+#why-us .t-separator	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us .t-separator {$/;"	function	line:448
+.t-cover-n-abs	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-cover-n-abs {$/;"	function	line:453
+#hm	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#hm {$/;"	function	line:464
+#hm .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#hm .t-title {$/;"	function	line:469
+#hm .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#hm .t-title h3 {$/;"	function	line:474
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:485
+#hm .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #hm .t-title {$/;"	function	line:486
+#hm .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #hm .t-title h3 {$/;"	function	line:490
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:497
+#hm .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #hm .t-title {$/;"	function	line:498
+#hm .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #hm .t-title h3 {$/;"	function	line:502
+#hm-gallery	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#hm-gallery {$/;"	function	line:508
+.t-hm-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-hm-title {$/;"	function	line:520
+.hm-gallery	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.hm-gallery {$/;"	function	line:529
+.hm-gallery.left	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.hm-gallery.left {$/;"	function	line:541
+.hm-gallery.left .hm-subtitle	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.hm-gallery.left .hm-subtitle {$/;"	function	line:545
+.hm-gallery.right .hm-subtitle	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.hm-gallery.right .hm-subtitle {$/;"	function	line:552
+.hm-gallery.right	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.hm-gallery.right {$/;"	function	line:559
+.t-hm-subtitle-1	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-hm-subtitle-1 {$/;"	function	line:563
+.t-hm-subtitle-2	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-hm-subtitle-2 {$/;"	function	line:572
+.hm-img	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.hm-img {$/;"	function	line:581
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:585
+.t-hm-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-hm-title {$/;"	function	line:586
+.t-hm-subtitle-1	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-hm-subtitle-1 {$/;"	function	line:591
+.t-hm-subtitle-2	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-hm-subtitle-2 {$/;"	function	line:598
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:606
+.t-hm-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-hm-title {$/;"	function	line:607
+.t-hm-subtitle-1	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-hm-subtitle-1 {$/;"	function	line:612
+.t-hm-subtitle-2	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-hm-subtitle-2 {$/;"	function	line:618
+@media (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 768px) {$/;"	function	line:625
+.hm-gallery.left, .hm-gallery.right	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .hm-gallery.left, .hm-gallery.right {$/;"	function	line:626
+.hm-gallery.left .hm-subtitle, .hm-gallery.right .hm-subtitle	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .hm-gallery.left .hm-subtitle, .hm-gallery.right .hm-subtitle {$/;"	function	line:630
+#fs	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#fs {$/;"	function	line:638
+#fs .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#fs .t-title {$/;"	function	line:643
+#fs .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#fs .t-title h3 {$/;"	function	line:648
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:659
+#fs .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #fs .t-title {$/;"	function	line:660
+#fs .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #fs .t-title h3 {$/;"	function	line:665
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:672
+#fs .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #fs .t-title {$/;"	function	line:673
+#fs .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #fs .t-title h3 {$/;"	function	line:678
+#fs .t-separator	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#fs .t-separator {$/;"	function	line:684
+#con	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#con {$/;"	function	line:690
+#con .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#con .t-title {$/;"	function	line:695
+#con .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#con .t-title h3 {$/;"	function	line:700
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:711
+#con .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #con .t-title {$/;"	function	line:712
+#con .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #con .t-title h3 {$/;"	function	line:717
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:724
+#con .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #con .t-title {$/;"	function	line:725
+#con .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #con .t-title h3 {$/;"	function	line:730
+#con-gallery	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#con-gallery {$/;"	function	line:736
+#meet	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#meet {$/;"	function	line:746
+#meet-gallery	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#meet-gallery {$/;"	function	line:750
+#act	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#act {$/;"	function	line:757
+#act .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#act .t-title {}$/;"	function	line:762
+#act .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#act .t-title h3 {$/;"	function	line:764
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:775
+#act .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #act .t-title {}$/;"	function	line:776
+#act .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #act .t-title h3 {$/;"	function	line:778
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:785
+#act .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #act .t-title {}$/;"	function	line:786
+#act .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #act .t-title h3 {$/;"	function	line:788
+.t-tel	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-tel {$/;"	function	line:794
+.t-tel a	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-tel a {$/;"	function	line:804
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:809
+.t-tel	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-tel {$/;"	function	line:810
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:815
+.t-tel	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-tel {$/;"	function	line:816
+#footer	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#footer {$/;"	function	line:822
+.t-footer	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-footer {$/;"	function	line:830
+#footer .t-footer a:link	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#footer .t-footer a:link {$/;"	function	line:836
+#footer .t-footer a:hover	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#footer .t-footer a:hover {$/;"	function	line:845
+#footer .t-footer a:visited	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#footer .t-footer a:visited {$/;"	function	line:850
+#footer .t-footer a:visited:hover	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#footer .t-footer a:visited:hover {$/;"	function	line:855
+.t-align-center	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-align-center {$/;"	function	line:861
+.t-grid-container	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-grid-container {$/;"	function	line:865
+.t-col	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-col {$/;"	function	line:873
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:881
+.t-col	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col {$/;"	function	line:882
+.t-col_3_mob	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_3_mob {$/;"	function	line:887
+.t-col_4_mob	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_4_mob {$/;"	function	line:891
+.t-col_6_mob	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_6_mob {$/;"	function	line:895
+.t-col_12_mob	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_12_mob {$/;"	function	line:899
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:904
+.t-col	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col {$/;"	function	line:905
+.t-col_3_tab	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_3_tab {$/;"	function	line:910
+.t-col_4_tab	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_4_tab {$/;"	function	line:914
+.t-col_6_tab	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_6_tab {$/;"	function	line:918
+.t-col_12_tab	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_12_tab {$/;"	function	line:922
+@media (min-width: 769px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 769px) {$/;"	function	line:927
+.t-col_3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_3 {$/;"	function	line:928
+.t-col_4	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_4 {$/;"	function	line:932
+.t-col_12	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_12 {$/;"	function	line:936
+.t-clear	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-clear {$/;"	function	line:941
