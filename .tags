@@ -1,0 +1,331 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Welcome to GitHub Pages	X:\PROJECTS\Russian Axe\Russian-Axe\docs\index.md	/^## Welcome to GitHub Pages$/;"	function	line:1
+Markdown	X:\PROJECTS\Russian Axe\Russian-Axe\docs\index.md	/^### Markdown$/;"	function	line:7
+Header 1	X:\PROJECTS\Russian Axe\Russian-Axe\docs\index.md	/^# Header 1$/;"	function	line:14
+Header 2	X:\PROJECTS\Russian Axe\Russian-Axe\docs\index.md	/^## Header 2$/;"	function	line:15
+Header 3	X:\PROJECTS\Russian Axe\Russian-Axe\docs\index.md	/^### Header 3$/;"	function	line:16
+Jekyll Themes	X:\PROJECTS\Russian Axe\Russian-Axe\docs\index.md	/^### Jekyll Themes$/;"	function	line:31
+Support or Contact	X:\PROJECTS\Russian Axe\Russian-Axe\docs\index.md	/^### Support or Contact$/;"	function	line:35
+theme	X:\PROJECTS\Russian Axe\Russian-Axe\docs\_config.yml	/^theme: jekyll-theme-cayman/;"	function	line:1
+html	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^<html lang="ru">$/;"	function	line:2
+head	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^<head>$/;"	function	line:4
+meta	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <meta charset="utf-8" \/>$/;"	function	line:5
+meta	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:6
+title	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <title>Русский топор<\/title>$/;"	function	line:7
+link	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <link rel="stylesheet" href="style.css" \/>$/;"	function	line:8
+script	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.11.1\/jquery.min.js"><\/script>$/;"	function	line:10
+link	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <link href="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/fotorama\/4.6.4\/fotorama.css" rel="stylesheet">$/;"	function	line:13
+script	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <script src="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/fotorama\/4.6.4\/fotorama.js"><\/script>$/;"	function	line:14
+body	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^<body>$/;"	function	line:18
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <div id="header">$/;"	function	line:19
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div class="header-gradient">$/;"	function	line:20
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="header-wrapper t-cover">$/;"	function	line:21
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="title-up">$/;"	function	line:22
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <span>Компания &laquo;Русский топор&raquo;<\/span>$/;"	function	line:23
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="title-main">$/;"	function	line:25
+h	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <h1>Строим недорогие каркасные дома в&nbsp;Москве и&nbsp;области<\/h1>$/;"	function	line:26
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="title-sub">$/;"	function	line:28
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <span>Готовый дом &laquo;под ключ&raquo; за&nbsp;2&nbsp;месяца по&nbsp;индивидуальному$/;"	function	line:29
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <div class="container-grey">$/;"	function	line:37
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div id="txt-lead">$/;"	function	line:38
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <div id="why-us">$/;"	function	line:46
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div class="t-cover-n-abs t-grid-container">$/;"	function	line:47
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="t-col t-col_12 t-col_12_mob t-col_12_tab">$/;"	function	line:48
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="t-title t-align-center">$/;"	function	line:49
+h	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <h3>8&nbsp;причин выбрать нас<\/h3>$/;"	function	line:50
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div class="t-cover-n-abs t-grid-container">$/;"	function	line:54
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="t-card t-col t-col_4 t-col_6_tab t-col_12_mob t-align_center">$/;"	function	line:55
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/cards\/1_hand.svg" \/>$/;"	function	line:56
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="wrappercenter">$/;"	function	line:57
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-heading t-heading_md">Строим недорого<\/div>$/;"	function	line:58
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-descr t-descr_xs">$/;"	function	line:59
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="t-card t-col t-col_4 t-col_6_tab t-col_12_mob t-align_center">$/;"	function	line:65
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/cards\/2.svg" \/>$/;"	function	line:66
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="wrappercenter">$/;"	function	line:67
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-heading t-heading_md">Любые проекты<\/div>$/;"	function	line:68
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-descr t-descr_xs">$/;"	function	line:69
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="t-card t-col t-col_4 t-col_6_tab t-col_12_mob t-align_center">$/;"	function	line:75
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/cards\/3_building.svg" \/>$/;"	function	line:76
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="wrappercenter">$/;"	function	line:77
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-heading t-heading_md">Не только дома<\/div>$/;"	function	line:78
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-descr t-descr_xs">$/;"	function	line:79
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="t-card t-col t-col_4 t-col_6_tab t-col_12_mob t-align_center">$/;"	function	line:84
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/cards\/4_dlvr_speed.svg" \/>$/;"	function	line:85
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="wrappercenter">$/;"	function	line:86
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-heading t-heading_md">Строим быстро<\/div>$/;"	function	line:87
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-descr t-descr_xs">$/;"	function	line:88
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="t-card t-col t-col_4 t-col_6_tab t-col_12_mob t-align_center">$/;"	function	line:94
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/cards\/5_install.svg" \/>$/;"	function	line:95
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="wrappercenter">$/;"	function	line:96
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-heading t-heading_md">Участвуйте сами<\/div>$/;"	function	line:97
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-descr t-descr_xs">$/;"	function	line:98
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="t-card t-col t-col_4 t-col_6_tab t-col_12_mob t-align_center">$/;"	function	line:104
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/cards\/6_list.svg" \/>$/;"	function	line:105
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="wrappercenter">$/;"	function	line:106
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-heading t-heading_md">Чёткая смета<\/div>$/;"	function	line:107
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-descr t-descr_xs">$/;"	function	line:108
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="t-card t-col t-col_4 t-col_6_tab t-col_12_mob t-align_center">$/;"	function	line:113
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/cards\/7_documents.svg" \/>$/;"	function	line:114
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="wrappercenter">$/;"	function	line:115
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-heading t-heading_md">Поэтапная оплата<\/div>$/;"	function	line:116
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-descr t-descr_xs">$/;"	function	line:117
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="t-card t-col t-col_4 t-col_6_tab t-col_12_mob t-align_center">$/;"	function	line:123
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/cards\/8_effective.svg" \/>$/;"	function	line:124
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="wrappercenter">$/;"	function	line:125
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-heading t-heading_md">Гарантия 50&nbsp;лет<\/div>$/;"	function	line:126
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-descr t-descr_xs">$/;"	function	line:127
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <div class="container-grey">$/;"	function	line:136
+h	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <h3>Сколько это стоит?<\/h3>$/;"	function	line:137
+p	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <p class="t-regular">Прикинуть порядок цен и&nbsp;сроки строительства, помогут представленные ниже типовые проекты, от&nbsp;недорогого дачного дома &laquo;Бильбао&raquo; за&nbsp;700&nbsp;000&nbsp;₽ до&nbsp;шикарной резиденции &laquo;Александрия&raquo; стоимостью$/;"	function	line:138
+p	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <p class="t-regular">Цена зависит от&nbsp;площади, выбранных материалов отделки и&nbsp;утепления. Вы&nbsp;можете самостоятельно подобрать и&nbsp;закупить материалы или доверить это дело нам. За&nbsp;соответствие цены качеству предоставляемых материалов мы&nbsp;отвечаем своей безупречной репутацией.<\/p>$/;"	function	line:140
+p	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <p class="t-regular">Любой проект легко адаптируется под ваши потребности и&nbsp;бюджет. Можно пристроить к&nbsp;дому веранду, гараж или балкон. Можно убрать мансарду, изменить планировку, немного подвинуть стены или сократить целый этаж. Всё что пожелаете.<\/p>$/;"	function	line:141
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div id="hm-gallery">$/;"	function	line:144
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="hm-gallery left">$/;"	function	line:145
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="hm-img">$/;"	function	line:146
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <img width="100%" max-height="100%" src="img\/antwerpen.webp" \/>$/;"	function	line:147
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="hm-subtitle">$/;"	function	line:149
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-hm-title">Антверпен<\/div>$/;"	function	line:150
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <span class="t-hm-subtitle-1">1&nbsp;200&nbsp;000 &#8381;&#12644;130&nbsp;м&#178;<\/span>$/;"	function	line:151
+br	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <br \/>$/;"	function	line:152
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <span class="t-hm-subtitle-2">Построим за&nbsp;3&nbsp;месяца<\/span>$/;"	function	line:153
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="hm-gallery right">$/;"	function	line:157
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="hm-img">$/;"	function	line:158
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <img width="100%" max-height="100%" src="img\/lissabon.webp" \/>$/;"	function	line:159
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="hm-subtitle">$/;"	function	line:161
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-hm-title">Лиссабон<\/div>$/;"	function	line:162
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <span class="t-hm-subtitle-1">2&nbsp;500&nbsp;000 ₽ㅤ300&nbsp;м&sup2;<\/span>$/;"	function	line:163
+br	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <br \/>$/;"	function	line:164
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <span class="t-hm-subtitle-2">Построим за&nbsp;3&nbsp;месяца<\/span>$/;"	function	line:165
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="hm-gallery left">$/;"	function	line:169
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="hm-img">$/;"	function	line:170
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <img width="100%" max-height="100%" src="img\/wersal.webp" \/>$/;"	function	line:171
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="hm-subtitle">$/;"	function	line:173
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-hm-title">Версаль<\/div>$/;"	function	line:174
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <span class="t-hm-subtitle-1">2&nbsp;800&nbsp;000 ₽&#8195;240&nbsp;м&sup2;<\/span>$/;"	function	line:175
+br	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <br \/>$/;"	function	line:176
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <span class="t-hm-subtitle-2">Построим за&nbsp;4&nbsp;месяца<\/span>$/;"	function	line:177
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="hm-gallery right">$/;"	function	line:181
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="hm-img">$/;"	function	line:182
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <img width="100%" max-height="100%" src="img\/antwerpen.webp" \/>$/;"	function	line:183
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="hm-subtitle">$/;"	function	line:185
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-hm-title">Александрия<\/div>$/;"	function	line:186
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <span class="t-hm-subtitle-1">9&nbsp;500&nbsp;000 ₽ㅤ550&nbsp;м&sup2;<\/span>$/;"	function	line:187
+br	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <br \/>$/;"	function	line:188
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <span class="t-hm-subtitle-2">Построим за&nbsp;4&nbsp;месяца<\/span>$/;"	function	line:189
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <div class="container-yellow">$/;"	function	line:196
+h	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <h3>4 шага к вашему новому дому<\/h3>$/;"	function	line:197
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div class="t-cover-n-abs t-grid-container">$/;"	function	line:198
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="t-card t-col t-col_3 t-col_12_mob t-col_6_tab t-align_center">$/;"	function	line:199
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/icons\/1.svg" \/>$/;"	function	line:200
+path	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^            <path fill="currentColor" d="M10,7H14V17H12V9H10V7M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2M12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4Z" \/>$/;"	function	line:202
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="wrappercenter">$/;"	function	line:204
+h	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <h4 style="padding-bottom: 10px;">Проект<\/h4>$/;"	function	line:205
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-descr t-descr_xs">$/;"	function	line:206
+ul	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^            <ul>$/;"	function	line:207
+li	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^              <li>Выбор типового проекта, с&nbsp;возможностью его&nbsp;доработки;<\/li>$/;"	function	line:208
+li	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^              <li>Разработка индивидуального;<\/li>$/;"	function	line:209
+li	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^              <li>Доработка вашего.<\/li>$/;"	function	line:210
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="t-card t-col t-col_3 t-align_center">$/;"	function	line:215
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/icons\/2.svg" \/>$/;"	function	line:216
+path	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <path fill="currentColor" d="M9,7H13A2,2 0 0,1 15,9V11A2,2 0 0,1 13,13H11V15H15V17H11L9,17V13A2,2 0 0,1 11,11H13V9H9V7M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2M12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4Z" \/>$/;"	function	line:218
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="wrappercenter">$/;"	function	line:220
+h	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <h4 style="padding-bottom: 10px;">Материалы<\/h4>$/;"	function	line:221
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-descr t-descr_xs">$/;"	function	line:222
+ul	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^            <ul>$/;"	function	line:223
+li	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^              <li>Выбор материала каркаса, кровли, внутренней и&nbsp;внешней отделки;<\/li>$/;"	function	line:224
+li	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^              <li>Подбор утеплителя;<\/li>$/;"	function	line:225
+li	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^              <li>Покупка индивидуальных материалов.<\/li>$/;"	function	line:226
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="t-card t-col t-col_3 t-align_center">$/;"	function	line:231
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/icons\/3.svg" \/>$/;"	function	line:232
+path	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <path fill="currentColor" d="M15,15A2,2 0 0,1 13,17H9V15H13V13H11V11H13V9H9V7H13A2,2 0 0,1 15,9V10.5A1.5,1.5 0 0,1 13.5,12A1.5,1.5 0 0,1 15,13.5V15M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2M12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4Z" \/>$/;"	function	line:234
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="wrappercenter">$/;"	function	line:236
+h	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <h4 style="padding-bottom: 10px;">Смета<\/h4>$/;"	function	line:237
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-descr t-descr_xs">$/;"	function	line:238
+ul	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^            <ul>$/;"	function	line:239
+li	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^              <li>Составление сметы проекта;<\/li>$/;"	function	line:240
+li	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^              <li>Согласование сметы и&nbsp;проекта;<\/li>$/;"	function	line:241
+li	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^              <li>Утверждение документов заказчиком;<\/li>$/;"	function	line:242
+li	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^              <li>Заключение договора.<\/li>$/;"	function	line:243
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="t-card t-col t-col_3 t-align_center">$/;"	function	line:248
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/icons\/4.svg" \/>$/;"	function	line:249
+path	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <path fill="currentColor" d="M9,7H11V11H13V7H15V17H13V13H9V7M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2M12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4Z" \/>$/;"	function	line:251
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <div class="wrappercenter">$/;"	function	line:253
+h	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <h4 style="padding-bottom: 10px;">Стройка<\/h4>$/;"	function	line:254
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^          <div class="t-descr t-descr_xs">$/;"	function	line:255
+ul	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^            <ul>$/;"	function	line:256
+li	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^              <li>Оплата проектных работ;<\/li>$/;"	function	line:257
+li	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^              <li>Далее 100&thinsp;%&nbsp;предоплата каждого этапа строительства:<\/li>$/;"	function	line:258
+li	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^              <li>1.&nbsp;Закладка фундамента;<br \/>2.&nbsp;Возведение каркаса;<br \/>$/;"	function	line:259
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div class="t-clear t-separator"><\/div>$/;"	function	line:268
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <div class="container-grey">$/;"	function	line:272
+h	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <h3>Отзывы наших клиентов<\/h3>$/;"	function	line:273
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div id="feedback">$/;"	function	line:275
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="feedback-border">$/;"	function	line:276
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <span class="t-feedback-title">Викентий Карпов<\/span>$/;"	function	line:277
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <span class="t-feedback-subtitle">Каркасный дом в&nbsp;Зеленограде 150&nbsp;м&sup2;<\/span>$/;"	function	line:278
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <span class="t-feedback-txt">$/;"	function	line:279
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div id="feedback-alt">$/;"	function	line:285
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="feedback-border">$/;"	function	line:286
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <span class="t-feedback-title">Алексей петров<\/span>$/;"	function	line:287
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <span class="t-feedback-subtitle">Каркасный дом в&nbsp;Зеленограде 150&nbsp;м&sup2;<\/span>$/;"	function	line:288
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <span class="t-feedback-txt">$/;"	function	line:289
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div id="feedback">$/;"	function	line:296
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="feedback-border">$/;"	function	line:297
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <span class="t-feedback-title">Иван Иванов<\/span>$/;"	function	line:298
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <span class="t-feedback-subtitle">Каркасный дом в&nbsp;Зеленограде 150&nbsp;м&sup2;<\/span>$/;"	function	line:299
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <span class="t-feedback-txt">$/;"	function	line:300
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div id="feedback-alt">$/;"	function	line:307
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="feedback-border">$/;"	function	line:308
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <span class="t-feedback-title">Ольга Петровна Семёнова<\/span>$/;"	function	line:309
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <span class="t-feedback-subtitle">Каркасный дом в&nbsp;Зеленограде 150&nbsp;м&sup2;<\/span>$/;"	function	line:310
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <span class="t-feedback-txt">$/;"	function	line:311
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <div class="container-grey">$/;"	function	line:320
+h	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <h3>Построили в&nbsp;2019&ndash;2020 году<\/h3>$/;"	function	line:321
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div id="con-gallery">$/;"	function	line:322
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="fotorama" data-keyboard="true" data-allowfullscreen="true" data-nav="dots" data-width="100%" data-maxwidth="1200px" data-ratio="16\/9" data-fit="cover">$/;"	function	line:324
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/05-02.jpg">$/;"	function	line:325
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/05-03.jpg">$/;"	function	line:326
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/05-04.jpg">$/;"	function	line:327
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/05-01.jpg">$/;"	function	line:328
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div id="con-gallery">$/;"	function	line:332
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="fotorama" data-keyboard="true" data-allowfullscreen="true" data-nav="dots" data-width="100%" data-maxwidth="1200px" data-ratio="16\/9" data-fit="cover">$/;"	function	line:334
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/03-04.jpg">$/;"	function	line:335
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/03-01.jpg">$/;"	function	line:336
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/03-03.jpg">$/;"	function	line:337
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/03-05.jpg">$/;"	function	line:338
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/03-07.jpg">$/;"	function	line:339
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/03-09.jpg">$/;"	function	line:340
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/03-08.jpg">$/;"	function	line:341
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div id="con-gallery">$/;"	function	line:345
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^      <div class="fotorama" data-keyboard="true" data-allowfullscreen="true" data-nav="dots" data-width="100%" data-maxwidth="1200px" data-ratio="16\/9" data-fit="cover">$/;"	function	line:347
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/02-01.jpg">$/;"	function	line:348
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/02-02.jpg">$/;"	function	line:349
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/02-03.jpg">$/;"	function	line:350
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/02-04.jpg">$/;"	function	line:351
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/02-05.jpg">$/;"	function	line:352
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/02-06.jpg">$/;"	function	line:353
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/02-07.jpg">$/;"	function	line:354
+img	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^        <img src="img\/con-gallery\/02-08.jpg">$/;"	function	line:355
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <div class="container-grey-alt">$/;"	function	line:361
+h	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <h3>Приятно познакомиться<\/h3>$/;"	function	line:362
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div id="boh">$/;"	function	line:363
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^<div id="act" class="container-yellow">$/;"	function	line:368
+h	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <h3>Позвоните и закажите дом вашей мечты!<\/h3>$/;"	function	line:369
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <div class="t-tel">+7 952 370-88-57<\/div>$/;"	function	line:370
+div	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^  <div id="footer" class="container-grey">$/;"	function	line:374
+span	X:\PROJECTS\Russian Axe\Russian-Axe\www\index.html	/^    <span>Иконки на сайте &mdash; <a href="https:\/\/tilda.cc">Tilda Publishing<\/a><\/span>$/;"	function	line:375
+html, body, div, span, applet, object, iframe	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^html, body, div, span, applet, object, iframe,$/;"	function	line:8
+h1, h2, h3, h4, h5, h6, p, blockquote, pre	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	function	line:9
+a, abbr, acronym, address, big, cite, code	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	function	line:10
+del, dfn, em, img, ins, kbd, q, s, samp	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	function	line:11
+small, strike, strong, sub, sup, tt, var	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	function	line:12
+b, u, i, center	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^b, u, i, center,$/;"	function	line:13
+dl, dt, dd, ol, ul, li	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^dl, dt, dd, ol, ul, li,$/;"	function	line:14
+fieldset, form, label, legend	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^fieldset, form, label, legend,$/;"	function	line:15
+table, caption, tbody, tfoot, thead, tr, th, td	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	function	line:16
+article, aside, canvas, details, embed	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^article, aside, canvas, details, embed,$/;"	function	line:17
+figure, figcaption, footer, header, hgroup	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^figure, figcaption, footer, header, hgroup,$/;"	function	line:18
+menu, nav, output, ruby, section, summary	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^menu, nav, output, ruby, section, summary,$/;"	function	line:19
+time, mark, audio, video	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^time, mark, audio, video {$/;"	function	line:20
+article, aside, details, figcaption, figure	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^article, aside, details, figcaption, figure,$/;"	function	line:31
+footer, header, hgroup, menu, nav, section	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^footer, header, hgroup, menu, nav, section {$/;"	function	line:32
+body	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^body {$/;"	function	line:36
+ol, ul	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^ol, ul {$/;"	function	line:40
+blockquote, q	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^blockquote, q {$/;"	function	line:44
+blockquote:before, blockquote:after	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^blockquote:before, blockquote:after,$/;"	function	line:48
+q:before, q:after	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^q:before, q:after {$/;"	function	line:49
+table	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^table {$/;"	function	line:54
+h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^h3 {$/;"	function	line:62
+h4	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^h4 {$/;"	function	line:74
+p	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^p {$/;"	function	line:82
+li	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^li {$/;"	function	line:86
+::selection	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^::selection {$/;"	function	line:90
+#header	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#header {$/;"	function	line:97
+#header .header-wrapper	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#header .header-wrapper {$/;"	function	line:108
+#header .header-gradient	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#header .header-gradient {$/;"	function	line:112
+.t-cover	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-cover {$/;"	function	line:121
+#header .title-up	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#header .title-up {$/;"	function	line:137
+#header .title-main h1	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#header .title-main h1 {$/;"	function	line:149
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:160
+#header .title-main h1	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #header .title-main h1 {$/;"	function	line:161
+#header .title-up	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #header .title-up {$/;"	function	line:165
+.t-cover	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-cover {$/;"	function	line:170
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:176
+#header .title-main h1	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #header .title-main h1 {$/;"	function	line:177
+#header .title-up	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #header .title-up {$/;"	function	line:181
+.t-cover	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-cover {$/;"	function	line:186
+#header .title-sub	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#header .title-sub {$/;"	function	line:191
+#txt-lead	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#txt-lead {$/;"	function	line:201
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:213
+#txt-lead	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #txt-lead {$/;"	function	line:214
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:221
+#txt-lead	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  #txt-lead {$/;"	function	line:222
+.t-regular	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-regular {$/;"	function	line:229
+.container-grey	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.container-grey {$/;"	function	line:242
+.container-grey-alt	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.container-grey-alt {$/;"	function	line:252
+.container-yellow	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.container-yellow {$/;"	function	line:262
+#hm-gallery	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#hm-gallery {$/;"	function	line:273
+.t-hm-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-hm-title {$/;"	function	line:283
+.hm-gallery	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.hm-gallery {$/;"	function	line:291
+.hm-gallery.left	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.hm-gallery.left {$/;"	function	line:302
+.hm-gallery.left .hm-subtitle	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.hm-gallery.left .hm-subtitle {$/;"	function	line:306
+.hm-gallery.right .hm-subtitle	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.hm-gallery.right .hm-subtitle {$/;"	function	line:312
+.hm-gallery.right	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.hm-gallery.right {$/;"	function	line:318
+.hm-img	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.hm-img {$/;"	function	line:322
+.t-hm-subtitle-1	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-hm-subtitle-1 {$/;"	function	line:326
+.t-hm-subtitle-2	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-hm-subtitle-2 {$/;"	function	line:334
+@media (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 768px) {$/;"	function	line:342
+.hm-gallery.left, .hm-gallery.right	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .hm-gallery.left, .hm-gallery.right {$/;"	function	line:343
+.hm-gallery.left .hm-subtitle, .hm-gallery.right .hm-subtitle	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .hm-gallery.left .hm-subtitle, .hm-gallery.right .hm-subtitle {$/;"	function	line:347
+#feedback	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#feedback {$/;"	function	line:355
+#feedback-alt	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#feedback-alt {$/;"	function	line:365
+.t-feedback-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-feedback-title {$/;"	function	line:375
+.t-feedback-subtitle	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-feedback-subtitle {$/;"	function	line:384
+.t-feedback-txt	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-feedback-txt {$/;"	function	line:393
+.feedback-border	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.feedback-border {$/;"	function	line:406
+#con-gallery	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#con-gallery {$/;"	function	line:415
+#boh	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#boh {$/;"	function	line:424
+#boh-gallery	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#boh-gallery {$/;"	function	line:428
+.t-cover-n-abs	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-cover-n-abs {$/;"	function	line:435
+.t-align-center	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-align-center {$/;"	function	line:445
+.t-grid-container	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-grid-container {$/;"	function	line:451
+.t-col	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-col {$/;"	function	line:459
+@media (min-width: 769px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 769px) {$/;"	function	line:465
+.t-col_3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_3 {$/;"	function	line:466
+.t-col_4	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_4 {$/;"	function	line:470
+.t-col_12	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_12 {$/;"	function	line:474
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:479
+.t-col	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col {$/;"	function	line:480
+.t-col_3_mob	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_3_mob {$/;"	function	line:485
+.t-col_4_mob	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_4_mob {$/;"	function	line:489
+.t-col_6_mob	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_6_mob {$/;"	function	line:493
+.t-col_12_mob	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_12_mob {$/;"	function	line:497
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:502
+.t-col	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col {$/;"	function	line:503
+.t-col_3_tab	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_3_tab {$/;"	function	line:508
+.t-col_4_tab	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_4_tab {$/;"	function	line:512
+.t-col_6_tab	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_6_tab {$/;"	function	line:516
+.t-col_12_tab	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-col_12_tab {$/;"	function	line:520
+.t-clear	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-clear {$/;"	function	line:525
+#why-us	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us {$/;"	function	line:529
+#why-us .t-title	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us .t-title {$/;"	function	line:536
+#why-us .t-title h3	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us .t-title h3 {$/;"	function	line:540
+#why-us .t-card	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us .t-card {$/;"	function	line:548
+#why-us .t-card img	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us .t-card img {$/;"	function	line:552
+#why-us .t-card .wrappercenter	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us .t-card .wrappercenter {$/;"	function	line:559
+#why-us .t-heading_md	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us .t-heading_md {$/;"	function	line:564
+#why-us .t-separator	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^#why-us .t-separator {$/;"	function	line:569
+.t-heading_md	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-heading_md {$/;"	function	line:573
+@media (min-width: 361px) and (max-width: 768px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (min-width: 361px) and (max-width: 768px) {$/;"	function	line:578
+.t-heading_md	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-heading_md {$/;"	function	line:579
+@media (max-width: 360px)	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^@media (max-width: 360px) {$/;"	function	line:585
+.t-heading_md	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^  .t-heading_md {$/;"	function	line:586
+.t-heading	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-heading {$/;"	function	line:592
+.t-descr_xs	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-descr_xs {$/;"	function	line:598
+.t-descr	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-descr {$/;"	function	line:603
+.t-tel	X:\PROJECTS\Russian Axe\Russian-Axe\www\style.css	/^.t-tel {$/;"	function	line:610
