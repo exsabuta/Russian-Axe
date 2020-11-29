@@ -100,8 +100,21 @@ li {
 }
 
 /* So we begin */
+
+html, body {
+  min-height: 100vh;
+  width: 100%;
+}
+
+.upper-container {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
 #header {
   height: 100vh;
+  max-height: 800px;
   width: 100%;
   position: relative;
   background-image: url(img/hat_back.jpg);
@@ -645,6 +658,10 @@ li {
   /* 90/16 */
 }
 
+#fs .t-card {
+  overflow: hidden;
+}
+
 #fs .t-title h3 {
   font-family: 'Noto Serif', serif;
   font-weight: 600;
@@ -681,9 +698,16 @@ li {
   }
 }
 
+#fs .t-card h4 {
+  font-size: 2.0em;
+  padding-bottom: 0.5em; /* 10/16 */
+}
+
+@media (max-width: 800px) {
   #fs .t-card h4 {
-    padding-bottom: 0.5em; /* 10/16 */
+    font-size: 1.6em;
   }
+}
 
 #fs .t-separator {
   padding-bottom: 3em;
