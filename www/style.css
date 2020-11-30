@@ -152,13 +152,13 @@ html, body {
   left: 0;
   bottom: 0;
   right: 0;
-  margin-left: auto;
-  margin-right: auto;
   width: 100%;
   max-width: 75em;
+  margin-left: auto;
+  margin-right: auto;
   box-sizing: content-box;
-  text-align: center;
   overflow: hidden;
+  text-align: center;
 }
 
 #header .title-up {
@@ -202,9 +202,7 @@ html, body {
 
   #header .title-up {
     padding-top: 0.625em;
-    /* 10/16 */
     padding-bottom: 1.875em;
-    /* 30/16 */
   }
 
   #header .title-sub {
@@ -225,9 +223,7 @@ html, body {
 
   #header .title-up {
     padding-top: 0.625em;
-    /* 20/16 */
     padding-bottom: 1.563em;
-    /* 25/16 */
   }
 
   #header .title-sub {
@@ -242,18 +238,14 @@ html, body {
 .t-regular {
   font-family: 'Roboto', sans-serif;
   font-size: 1.5em;
-  /* 28/16 */
   line-height: 1.5;
   font-weight: 400;
   text-align: left;
   color: #474747;
   max-width: 1200px;
   padding-bottom: 1.875em;
-  /* 60/16 */
   margin-left: 1.875em;
-  /* 100/16 */
   margin-right: 1.875em;
-  /* 100/16 */
 }
 
 @media (max-width: 360px) {
@@ -270,9 +262,7 @@ html, body {
   .t-regular {
     font-size: 1.23em;
     margin-left: 1.875em;
-    /* 30/16 */
     margin-right: 1.875em;
-    /* 30/16 */
   }
 }
 
