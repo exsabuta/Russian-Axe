@@ -100,6 +100,7 @@ li {
 }
 
 /* So we begin */
+
 html, body {
   min-height: 100vh;
   width: 100%;
@@ -479,7 +480,6 @@ html, body {
 
 #hm-gallery {
   width: 100%;
-  max-width: 1200px;
   padding-top: 1.875em;
   padding-bottom: 3.75em;
   background-color: #f0f0f0;
@@ -544,6 +544,12 @@ html, body {
 
 .hm-img {
   max-width: 50%;
+}
+
+@media (max-width: 768px) {
+  .hm-img {
+    max-width: 60%;
+  }
 }
 
 @media (max-width: 360px) {
@@ -693,12 +699,9 @@ html, body {
   }
 }
 
-#con-gallery {
+.con-gallery {
   width: 100%;
-  max-width: 1200px;
   padding-bottom: 3.75em;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 /* ACTION BLOCK */
