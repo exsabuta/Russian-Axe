@@ -1,0 +1,20 @@
+{
+    "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0442\u043e\u043f\u043e\u0440",
+    "short_name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0442\u043e\u043f\u043e\u0440",
+    "icons": [
+        {
+            "src": "/img/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/favicon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#fff705",
+    "background_color": "#fff705",
+    "start_url": "http://russkiy-topor.ru/",
+    "display": "standalone"
+}
