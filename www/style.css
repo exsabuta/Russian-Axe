@@ -103,6 +103,7 @@ html, body {
 
 .upper-container {
   width: 100%;
+  min-width: 360px;
   max-width: 1400px;
   margin: 0 auto;
 }
