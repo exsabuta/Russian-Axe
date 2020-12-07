@@ -362,6 +362,7 @@ html, body {
 
 #why-us .t-card {
   margin-bottom: 4.5em;
+  overflow: hidden;
 }
 
 #why-us .t-card img {
