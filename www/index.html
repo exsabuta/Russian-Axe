@@ -394,6 +394,20 @@
       </div>
     </div>
   </div>
+  <script type="text/javascript">
+    var phoneEl = document.querySelector('.t-tel a');
+    var checker = function () {
+      let rect = phoneEl.getBoundingClientRect();
+      let elemTop = rect.top;
+      let elemBottom = rect.bottom;
+      let isVisible = (elemTop >= 0) && (elemBottom <= window.innerHeight);
+      if (isVisible) {
+        ym(69900085,'reachGoal','pshown');
+        document.removeEventListener('scroll', checker);
+      }
+    };
+    document.addEventListener('scroll', checker);
+  </script>
 </body>
 
 </html>
