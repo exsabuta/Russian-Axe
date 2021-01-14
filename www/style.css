@@ -745,6 +745,11 @@ html, body {
   padding-bottom: 2em;
 }
 
+a.a-tel, a.a-tel:visited, a.a-tel:hover:visited, a.a-tel:active {
+  text-decoration: none;
+  color: #000;
+}
+
 .t-tel a:link, a:visited, a:hover, a:hover:visited, a:active {
   text-decoration: none;
   color: #000;
